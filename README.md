@@ -1,4 +1,5 @@
 # SQL- Projects and Files
+M. Mendrin
 
 ## 1) Querying Company Invoice, Customer, and Employee Data
 
