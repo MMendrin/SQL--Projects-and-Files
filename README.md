@@ -19,9 +19,11 @@ surrounding invoices, customers, and employees.
 - Find the cities with the most customers and rank in descending order.
 - Create a new customer invoice id by combining a customer’s invoice id with their first and last name while ordering your query in thefollowing order: firstname, lastname, and invoiceID.
 
+
 Database Used: Chinook MySQL Database 
 Access Database at:
 https://github.com/lerocha/chinook-database/blob/master/ChinookDatabase/DataSources/Chinook_MySql.sql 
+
 
 ## 2) Querying Digital Media Data
 
@@ -36,6 +38,7 @@ which includes tables for artists, albums, media tracks.
 - Find the names of all the tracks for the album "Californication".
 - Retrieve the track name, album, artistID, and trackID for all albums.
 - Find the name and ID of the artists who do not have albums.
+
 
 Database Used: Chinook MySQL Database 
 Access Database at:
